@@ -6,7 +6,7 @@
 /*   By: epetrill <epetrill@learner.42.tech>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/11/19 11:22:36 by epetrill          #+#    #+#             */
-/*   Updated: 2025/11/25 17:34:47 by epetrill         ###   ########.fr       */
+/*   Updated: 2025/11/25 20:20:46 by epetrill         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,8 +15,6 @@
 
 # include <stdlib.h>
 # include <unistd.h>
-# include <fcntl.h>
-# include <stdio.h>
 
 # ifndef BUFFER_SIZE
 #  define BUFFER_SIZE 1
